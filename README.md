@@ -15,4 +15,4 @@ cd Sinobi
 python3 Sinobi.py
 
 ###### jika ada masalah hubungi : 085729416714
-
+###### Masih dalam pengembangan jika hasil belum jelas mohon di maklumi
